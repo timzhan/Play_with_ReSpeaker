@@ -124,7 +124,7 @@ Go to `~/4mics_hat/recording_examples`, double click `output.wav` and the VLC me
 
 You may notice the audio is playing, but you don't hear the sound from your headphone. In this case, you may need to go to `VLC media player` -> `Audio` -> `Audo Device` -> Switch to `Built-in Audio Analog Stereo`. By default, it is `Built-in Audio Digital Stereo`.
 
-<img src="images/switch_to_analog.jpg" width=100%>
+<img src="images/switch_to_analog.jpg" width=50%>
 
 Now you should be able to hear the sound.
 
